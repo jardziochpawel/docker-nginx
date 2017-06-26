@@ -1,8 +1,5 @@
 # docker-nginx
 #root /var/www/symfony/web
-
-#root /var/www/wordpress
-
 nginx:
     image: zipek91/docker-nginx
     ports:
