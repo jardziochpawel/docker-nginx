@@ -1,2 +1,2 @@
-# symfony3-nginx
-symfony3-nginx
+# docker-nginx
+docker-nginx
